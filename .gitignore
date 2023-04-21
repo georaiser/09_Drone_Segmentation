@@ -10,3 +10,7 @@ __pycache__/
 semantic_drone_dataset/
 
 *.bak
+
+semantic-segmentation-is-easy-with-pytorch.ipynb
+
+.gitignore
