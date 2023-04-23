@@ -12,5 +12,6 @@ semantic_drone_dataset/
 *.bak
 
 semantic.ipynb
+Aerial_SemanticSegmentation.html
 
 .gitignore
